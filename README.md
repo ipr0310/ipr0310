@@ -12,7 +12,7 @@ I'm also an open source enthusiast and maintainer. I've learned a lot from the o
 ## Skills
 
 - 👨‍💻 Javascript/TypeScript, Node.JS, Express.JS
-- ❤️ React, Svelte
+- ❤️ React, Next.JS, Svelte
 - 👁️ Material UI, CSS, Tailwind CSS, Emotion
 - 💽 MySQL, DynamoDB, PlanetScale
 - ☁️ Amazon Web Services, Google Cloud Platform, Cloudflare, Vultr
