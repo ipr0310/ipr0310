@@ -6,11 +6,12 @@ Hi, i'm a full-stack web developer with a passion for self-education. My passion
 I care a lot about the experience, the architecture, and the code quality of the things I build.
 
 - 🧭 Founder at [Fomplo](https://github.com/fomplo/website)
+- 🌐 Open-source contributor on [Signum Network](https://github.com/signum-network)
 
 ## Skills
 
 - 👨‍💻 Javascript/TypeScript, Node.JS, Express.JS
-- ❤️ React, React Native, Next.JS, Svelte
+- ❤️ React, React Native, Next.JS, Remix, Svelte, SvelteKit
 - 👁️ Tailwind CSS, Vanilla Extract, Material UI, CSS, Emotion
 - 💽 Prisma, Drizzle, MySQL, DynamoDB, PlanetScale
 - ✨ Figma
