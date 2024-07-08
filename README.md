@@ -12,8 +12,9 @@ I care a lot about the experience, the architecture, and the code quality of the
 
 - 👨‍💻 Javascript/TypeScript, Node.JS, Express.JS, NestJS
 - ❤️ React, React Native, Next.JS, Remix, Svelte, SvelteKit
-- 👁️ Tailwind CSS, Vanilla Extract, Material UI, CSS, Emotion
+- 👁️ Tailwind CSS, Vanilla Extract, Material UI, Emotion
 - 💽 Prisma, Drizzle, MySQL, DynamoDB, PlanetScale, MongoDB
+- 🐬 Docker, Debian based distros
 - ✨ Figma
 
 ## Contact
