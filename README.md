@@ -6,7 +6,7 @@ Hi, i'm a full-stack web developer with a passion for self-education. My passion
 I care a lot about the experience, the architecture, and the code quality of the things I build
 
 - 🧭 Founded [Fomplo](https://github.com/fomplo/website)
-- 💼 Founded [CardanoSkills](https://www.cardanoskills.com/)
+- 💼 Founded [CardanoSkills](https://www.cardanoskills.com/) -> (Merged into Cardano Talent)
 
 ## Skills
 
