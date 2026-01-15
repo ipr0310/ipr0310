@@ -17,11 +17,6 @@ I care a lot about the experience, the architecture, and the code quality of the
 - 🐬 Docker, Debian based distros
 - ✨ Excalidraw, Figma
 
-## Contact
-
-- [@ipr0310](https://twitter.com/ipr0310) on Twitter
-- `IPR0310#ipr0310` on Discord
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 ## 📈 My github stats
